@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = /home/dci/Desktop/BlazorApp/
+build_property.ProjectDir = /home/dci/Desktop/Blazor-Todo-app/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/dci/Desktop/BlazorApp
+build_property.MSBuildProjectDirectory = /home/dci/Desktop/Blazor-Todo-app
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/dci/Desktop/BlazorApp/App.razor]
+[/home/dci/Desktop/Blazor-Todo-app/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dci/Desktop/BlazorApp/Pages/Counter.razor]
+[/home/dci/Desktop/Blazor-Todo-app/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dci/Desktop/BlazorApp/Pages/FetchData.razor]
+[/home/dci/Desktop/Blazor-Todo-app/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dci/Desktop/BlazorApp/Pages/Index.razor]
+[/home/dci/Desktop/Blazor-Todo-app/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dci/Desktop/BlazorApp/Pages/Todo.razor]
+[/home/dci/Desktop/Blazor-Todo-app/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dci/Desktop/BlazorApp/Shared/SurveyPrompt.razor]
+[/home/dci/Desktop/Blazor-Todo-app/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dci/Desktop/BlazorApp/_Imports.razor]
+[/home/dci/Desktop/Blazor-Todo-app/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dci/Desktop/BlazorApp/Shared/MainLayout.razor]
+[/home/dci/Desktop/Blazor-Todo-app/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3ij3p7wwc4
 
-[/home/dci/Desktop/BlazorApp/Shared/NavMenu.razor]
+[/home/dci/Desktop/Blazor-Todo-app/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-wk4bcz64v1
 
-[/home/dci/Desktop/BlazorApp/Pages/Error.cshtml]
+[/home/dci/Desktop/Blazor-Todo-app/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dci/Desktop/BlazorApp/Pages/_Host.cshtml]
+[/home/dci/Desktop/Blazor-Todo-app/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

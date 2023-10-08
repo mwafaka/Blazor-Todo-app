@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LpNWiqzZHmi4+Xh4z7YU/XQ31jnVnuX8CrdKUs4Tp1Z8ynU/wCCmTXQnQL/4L+ZAeuQMUlyo1eUisO9rg1xUyQ==",
+  "dgSpecHash": "1CJD5FrlLA7GjOPQ3C+jgIXBD+G4NfUgwNtaMngD0YrWEuev0kCMOkiy2g0rcNE4EsZSM9peXC1cAEgIfWe8bQ==",
   "success": true,
-  "projectFilePath": "/home/dci/Desktop/BlazorApp/BlazorApp.csproj",
+  "projectFilePath": "/home/dci/Desktop/Blazor-Todo-app/BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
